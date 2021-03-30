@@ -1,5 +1,5 @@
 # proyecto1
 Hola Mundo!
-Integantes:
+Integrantes:
 Rodrigo Valdes
 Williams Lira
