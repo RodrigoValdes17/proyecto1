@@ -1,0 +1,120 @@
+*{
+  font-family: 'Product Sans';
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to right, #57455f , #98635d);
+  background-repeat:no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+#carrusel{
+  background: white;
+  border-radius: 20px;
+  padding: 40px 20px;
+}
+
+#boton button{
+  margin:20px;
+  background:white;
+  color:black;
+  border-radius: 20px;
+  border: 2px solid cyan;
+}
+
+#boton input{
+  border:0;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  padding: 14px;
+  border-radius:20px;
+  border: 2px solid cyan;
+}
+
+#boton1 input{
+  border-radius:20px;
+  border: 2px solid cyan;
+  background: white;
+  padding: 6px;
+}
+
+#cajatexto{
+  border:0;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  padding: 14px;
+  border-radius:20px;
+  border: 2px solid cyan;
+}
+
+#lateral{
+  border-radius:20px;
+  background: #17A2B8;
+  padding: 0px;
+  color: transparent;
+  text-align: left;
+  display: block;
+  width: 330px;
+}
+
+#links{
+  color: white;
+}
+
+#noticia{
+  background-color: white;
+  color: #7A7A7A;
+  border-radius: 20px;
+  padding:20px 20px;
+  margin-right: 18px;
+}
+#imagenperfil{
+  height: 200px;
+  width:200px;
+  border-radius: 50%;
+}
+
+#perfildesc{
+  color: #7A7A7A;
+  background: white;
+  border-radius: 20px;
+  border: 2px solid cyan;
+}
+#perfildesc p{
+  margin: 20px;
+}
+#introduction{
+  color: #7A7A7A;
+  background: white;
+  border-radius: 20px;
+  border: 2px solid cyan;
+  padding: 20px 20px;
+}
+#formularioContactar{
+  background: white;
+  padding: 20px 20px;
+  margin: 20px;
+  border-radius: 20px;
+  border: 2px solid cyan;
+}
+
+#formularioContactar form{
+  border: 0px;
+}
+
+#formularioContactar input{
+  border-radius: 20px;
+  border: 2px solid cyan;
+  padding: 5px 10px;
+}
+
+#areaTexto input{
+  border-radius: 20px;
+  border: 2px solid cyan;
+  padding: 5px 10px;
+}
